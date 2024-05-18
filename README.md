@@ -1,2 +1,4 @@
 # HR-Analytics-Dashboard
-This Power BI dashboard provides a comprehensive view of various HR metrics, including employee performance, attrition rates, and other key indicators essential for strategic decision-making in HR management.
+Welcome to the HR Analytics Dashboard repository! This project showcases my ability to leverage Power BI for insightful data analysis and visualization using an HR dataset sourced from Kaggle.
+
+
